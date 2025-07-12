@@ -95,6 +95,10 @@ npm run dev
 
 L'application sera accessible sur `http://localhost:5000`
 
+## Lien Test
+
+https://gestion-budget-tni4.onrender.com/
+
 ## Comptes de Test
 
 - **Admin** : `admin@ucad.edu.sn` / `password`
