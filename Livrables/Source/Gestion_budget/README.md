@@ -67,8 +67,8 @@ Ce système de gestion budgétaire est conçu pour l'Université Cheikh Anta Dio
 ### Configuration
 1. Clonez le dépôt
 ```bash
-git clone https://github.com/fmbaye09/UnifiedProcessReporter.git
-cd UnifiedProcessReporter
+git clone https://github.com/fmbaye09/Gestion_budget.git
+cd Gestion_budget
 ```
 
 2. Installez les dépendances
